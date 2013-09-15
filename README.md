@@ -8,3 +8,6 @@ comparisons around the lyrics of songs of Ravanan (Tamil by Vairamuthu) and Raav
 hopefully serve as a helpful source for people with a strong Hindi background to
 compare how a different version of some songs are written in Tamil. I mostly intend
 to translate Vairamuthu's songs.
+
+And there are a lot of people, who like Tamil songs, but wonder what the lyrics
+mean. Hopefully this helps you understand the meaning of the lines that you like.
